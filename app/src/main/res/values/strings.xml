@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="second_activity">Дозволені символи:\n\n+  -\n\n*  /\n\n^  (  )  \n\n1 2 3 4 5 6 7 8 9 0</string>
+</resources>
